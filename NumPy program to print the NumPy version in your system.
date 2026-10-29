@@ -1,0 +1,5 @@
+import numpy as np
+print(np. version ) 
+
+output:
+1.21.5
